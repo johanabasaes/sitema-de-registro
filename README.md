@@ -5,3 +5,5 @@
 Para ejecutar el sistema debes poner:
 
 ---jjjj---
+
+Sistema de Registro 2
